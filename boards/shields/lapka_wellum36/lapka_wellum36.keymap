@@ -200,19 +200,19 @@ _ Z          _ X          _ C          _ V         _ B             _ N          
 
         gam_layer {
             bindings = <
-_ TAB        _ Q          _ W          _ E         _ R             ___          ___          _ UP         ___          _ TAB
-_ LSFT       _ A          _ S          _ D         _ F             ___          _ LEFT       _ DOWN       _ RIGHT      _ RSFT
-_ LCTRL      _ Z          _ X          _ C         _ V             ___          ___          ___          ___          _ RCTRL
-                          _ LALT       _ SPACE     &mo GFN         &tog GAM     _ SPACE      ______
+_ TAB        _ J          _ C          _ P         _ A             ___          ___          _ UP         ___          _ TAB
+_ LSFT       _ L          _ U          _ V         _ S             ___          _ LEFT       _ DOWN       _ RIGHT      _ RSFT
+_ Z          _ Z          _ H          _ C         _ SPACE         ___          ___          ___          ___          _ RCTRL
+                          _ LALT       _ N         &mo GFN         &tog GAM     _ SPACE      ______
             >;
         };
 
         gfn_layer {
             bindings = <
-_ N5         _ N1         _ N2         _ N3        _ N4            &out OUT_TOG &bt BT_SEL 0 &bt BT_SEL 1   &bt BT_SEL 2 &bt BT_CLR_ALL
-_ N0         _ N6         _ N7         _ N8        _ N9            ___          ___          ___            ___          ___
-_ G          _ J          _ I          _ M         _ T             _ KP_NUM     ___          ___            &sys_reset   &bootloader
-                          _ ESC        _ RET       ______          ______       ______       ___
+_ LCTRL     ___        ___         ___         _ W             &out OUT_TOG &bt BT_SEL 0 &bt BT_SEL 1   &bt BT_SEL 2 &bt BT_CLR_ALL
+_ F1        _ F2       _ F3        _ F4        _ E             ___          ___          ___            ___          ___
+_ N1        _ N2       _ N3        _ N4        _ N5             _ KP_NUM     ___          ___            &sys_reset   &bootloader
+                       _ M         _ X         ______          ______       ______       ___
             >;
         };
 
