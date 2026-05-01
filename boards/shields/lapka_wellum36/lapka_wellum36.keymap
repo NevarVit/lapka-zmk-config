@@ -202,7 +202,7 @@ _ Z          _ X          _ C          _ V         _ B             _ N          
             bindings = <
 _ TAB        _ J          _ C          _ P         _ A             ___          ___          _ UP         ___          _ TAB
 _ LSFT       _ L          _ U          _ V         _ S             ___          _ LEFT       _ DOWN       _ RIGHT      _ RSFT
-_ Z          _ Z          _ H          _ C         _ SPACE         ___          ___          ___          ___          _ RCTRL
+___          ___          _ H          _ Z         _ SPACE         ___          ___          ___          ___          _ RCTRL
                           _ LALT       _ N         &mo GFN         &tog GAM     _ SPACE      ______
             >;
         };
